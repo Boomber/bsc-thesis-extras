@@ -1,0 +1,16 @@
+Count of harvests feeded: 5
+Base: 
+  1-3   Feb; Harvest 34; Jobs: 124,125,126
+Diffing 1:
+  7-9   Feb; Harvest 36; Jobs: 130,131,132
+  Triplets found: 66078
+Diffing 2:
+  13-15 Feb; Harvest 38; Jobs: 136,137,138
+  Triplets found: 31184
+Diffing 3:
+  19-21 Feb; Harvest 40; Jobs: 142,143,144
+  Triplets found: 32564
+Diffing 4:
+  25-27 Feb; Harvest 42; Jobs: 148,149,150
+  Triplets found: 38004
+Total triplets found: 167830 
